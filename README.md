@@ -10,7 +10,12 @@
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 ## Description
-<p>This is  a web application that shows ones Akan Name. Akan names are derived from Ghanian culture. This is done by a calculator that takes a users birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. In Ghana, children are frequently given their first name as a 'day name,' which corresponds to the day of the week on which they were born.</p>
+<p>This is  a web applicationmfor Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.</p>
+<p> They offer various category, nameley
+* Design
+* Development
+* Product Mangement
+</p>
 
 ## Installation
 
@@ -18,7 +23,7 @@
 
  * Javascript Console
 
- * Jquerry
+ * Jquerry 
 
  * Either a computer,phone,tablet or an Ipad
  
@@ -81,9 +86,12 @@
  [Go Back to the top](#Delani Studio)
  
  ## Authors Info
+ JOy Marocho is a fullstack Developer committed to giving her customers nothing but the best products with the recent technologies. You can find her on :
+
+ * Slack Profile - [JOY MAROCHO](https://app.slack.com/client/T0101L740P4/D0330AQB1PSlack%20Profile%20-%20[JOY%20MAROCHO](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXhttps://app.slack.com/client/T0101L740P4/D0330AQB1PSlack%20Profile%20-%20[JOY%20MAROCHO](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)WCHMCNP?cdn_fallback=1)W)
+
+ * GMAIL - [JOY MAROCHO] (https://mail.google.com/ joymarocho@gmail.com)
  
- Slack Profile - [JOY MAROCHO](https://app.slack.com/client/T0101L740P4/D0330AQB1PSlack%20Profile%20-%20[JOY%20MAROCHO](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXhttps://app.slack.com/client/T0101L740P4/D0330AQB1PSlack%20Profile%20-%20[JOY%20MAROCHO](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)WCHMCNP?cdn_fallback=1)W)
- 
- Linked - [JOY MAROCHO](https://www.linkedin.com/in/joy-marocho-553b3b12a/)
+ * Linked - [JOY MAROCHO](https://www.linkedin.com/in/joy-marocho-553b3b12a/)
  
  [Go Back to the top](#Delani Studio)
