@@ -49,18 +49,12 @@ body {
 
 @keyframes bounce {
 
-    0%,
-    20%,
-    50%,
-    80%,
-    100% {
+    0%, 20%, 50%, 80%,100% {
         transform: translateY(0);
     }
-
     40% {
         transform: translateY(-55px);
     }
-
     60% {
         transform: translateY(-45px);
     }
@@ -369,15 +363,6 @@ footer p {
         margin-right: 10%;
     }
 }
-
-#footer nav a {
-    color: #FFFFFF;
-}
-
-#footer nav a:hover {
-    color: #8EC837;
-}
-
 
 #copyright {
     border-color: rgba(255, 255, 255, .2);
