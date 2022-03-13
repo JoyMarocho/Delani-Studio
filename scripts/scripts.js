@@ -62,7 +62,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#work5").mouseover(function(){
-            $("#overla"y).show();
+            $("#overlay").show();
     }).mouseout(function(){
         $("#overlay5").hide();
     });
@@ -85,7 +85,7 @@ $(document).ready(function(){
 
     $(document).ready(function(){
         $("form#form34A").submit(function(event){
-            /event.preventDefault();
+            event.preventDefault();
             var name = $("input#ENTER1").val();
             var email = $("input#ENTER0").val();
             var message = $("textarea#COMMENT").val();
