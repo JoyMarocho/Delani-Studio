@@ -104,8 +104,11 @@ body {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    margin-left: 18%;
-    margin-right: 16%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#portfolio > * {
+    margin-bottom: 20px;
 }
 
 .col-md-3 img {
@@ -151,10 +154,12 @@ input[type=email],
     color: white;
 }
 
-#ENTER0 {
+ENTER0 {
     width: 30%;
 
 }
+
+/*
 
 #ENTER1 {
     width: 30%;
@@ -171,7 +176,7 @@ button {
     margin-left: 20%;
     padding-bottom: 30px;
     margin-bottom: 20px;
-}
+} */
 
 footer {
     text-align: center;
