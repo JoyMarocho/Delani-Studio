@@ -90,8 +90,8 @@ $(document).ready(function () {
     $("form#formFILL").submit(function (event) {
         //event.preventDefault();
         var name = $("input#ENTER1").val();
-        var "email" = $("input#ENTER0").val();
-        var "message" = $("textarea#COMMENT").val();
+        var email = $("input#ENTER0").val();
+        var message = $("textarea#COMMENT").val();
         if ($("input#ENTER1").val() &&  $("input#ENTER0").val()) {
             alert(name + ", message well received. Thank you for reaching out to us.");
         } else {
