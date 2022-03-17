@@ -6,8 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="./css/style.css" rel="stylesheet" type="text/css">
-    <link href="bootstrap-5.1.3-dist/css/" rel="stylesheet" type="text/css">
+    <link href="./css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="./bootstrap-5.1.3-dist/js/bootstrap.bundle.js" rel="stylesheet" type="text/css">
+    <link href="./bootstrap-5.1.3-dist/js/bootstrap.bundle.js.map" rel="stylesheet" type="text/css">
+    <link href="./bootstrap-5.1.3-dist/css/bootstrap.css.map" rel="stylesheet" type="text/css">
+
     <title>DELANI STUDIO</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
@@ -18,20 +21,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;500&display=swap"
         rel="stylesheet">
 
-    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js"
+    <script type="text/javascript" 
+    src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js"
         data-dojo-config="usePlainJson: true, isDebug: false"></script>
     <script type="text/javascript">
-        window.dojoRequire(["mojo/signup-forms/Loader"],
-            function (L) {
-                L.start({
-                    "baseUrl": "mc.us3.list-manage.com",
-                    "uuid": "e71bed4d6ae5a7c984dfe28b0",
-                    "lid": "dbf7e27685",
-                    "uniqueMethods": true
-                })
-            })
-    </script>
-    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+        window.dojoRequire(["mojo/signup-forms/Loader"],function (L) { L.start({ "baseUrl": "mc.us3.list-manage.com", "uuid": "e71bed4d6ae5a7c984dfe28b0","lid": "dbf7e27685","uniqueMethods": true})
+            }) </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -140,7 +137,7 @@
                 <p id="overlay4" class="text">Jim Carry</p>
             </div>
         </div>
-        <div class="row" id="portfolio">
+        <div class="row" id="image5">
             <div class="col-md-3" id="image5">
                 <img src="./assets/portfolio/work5.jpg" alt="image5">
                 <p id="overlay5" class="text">Have A Great Day</p>
@@ -162,7 +159,7 @@
     <div class="container-fluid contact">
         <h2> CONTACT US</h2>
 
-        <form id="formFILL" action="https://us14.admin.mailchimp.com/list/members/add?id=498729" method="post">
+        <form id="formFILL" action="https://us14.admin.mailchimp.com/list/members/add?id=498729" method="POST">
             <input type="hidden" name="u" value="e71bed4d6ae5a7c984dfe28b0">
             <input type="hidden" name="id" value="dbf7e27685">
             <div class="form-group form-check-inline">
@@ -172,8 +169,7 @@
                     name="ENTER0" id="ENTER0" size="25" value="">
             </div>
             <div class="form-group">
-                <textarea class="form-control" rows="8" id="COMMENT"
-                    placeholder="Your MESSAGE HERE........."></textarea>
+                <textarea class="form-control" rows="8" id="COMMENT"placeholder="Your MESSAGE HERE........."></textarea>
             </div>
             <button type="submit" class="btn btn-primary col-md-1">SUBMIT</button>
         </form>
@@ -196,13 +192,13 @@
     <div class="wrapper row5">
         <div id="copyright" class="hoc clear">
             <p class="fl_left">Copyright &copy; 2022 - All Rights Reserved</p>
-            <p class="fl_right">Website by JOY MAROCHO</p>
-   
+            <p class="fl_right">DELANI STUDIO by JOY MAROCHO</p>
+
         </div>
     </div>
 
 
-    <a id="backtotop" href="#top"><em class="fas fa-chevron-up"></em></a>
+    <button><a id="backtotop" href="#top"><em class="fas fa-chevron-up"></em>UP</a></button>
 
 
     <!--JAVASCRIPTS-->

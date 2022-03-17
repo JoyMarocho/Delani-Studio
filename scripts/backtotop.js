@@ -8,7 +8,7 @@ $(window).scroll(function () {
     if (jQuery(window).scrollTop() > 150) {
         jQuery("#backtotop").addClass("visible");
     } else {
-        jQuery("#backtotop").removeClass("visinle");
+        jQuery("#backtotop").removeClass("visible");
     }
 
 });
