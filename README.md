@@ -55,8 +55,7 @@
         * Push to the branch (git push origin improve-feature)
         * Create a Pull Request
 
-##LINK TO THE LIVE SITE: https://joymarocho.github.io/
-
+##LINK TO THE LIVE SITE: joymarocho.github.io/delani-studio/
  [Go Back to the top](#Delani Studio)
 
   ## Licence
